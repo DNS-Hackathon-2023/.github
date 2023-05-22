@@ -2,7 +2,7 @@
 
 # DNS Hackathon 2023
 
-Announcement, infor & details before the event: [DNS Hackathon 2023](https://labs.ripe.net/author/johanna-eriksson/connect-to-port-53-join-the-dns-hackathon-2023/)
+Announcement, info & details before the event: [DNS Hackathon 2023](https://labs.ripe.net/author/johanna-eriksson/connect-to-port-53-join-the-dns-hackathon-2023/)
 
 We had 6 team projects at the DNS Hackathon, with a link to their results.
 
