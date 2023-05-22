@@ -1,15 +1,67 @@
 ![DNS Hackathon 2023](/Netnod-Hackathon-Banner-1-1200x580.jpg)
 
-# DNS Hackathon 2023
+# DNS Hackathon 2023 - Connect to port 53!
 
-Announcement, info & details before the event: [DNS Hackathon 2023](https://labs.ripe.net/author/johanna-eriksson/connect-to-port-53-join-the-dns-hackathon-2023/)
+During May 20-21 (weekend before [#RIPE86](https://ripe86.ripe.net/)), 42+ hackers gathered from all corners of the world to work on DNS with the challenges about; Sustainability, Security (& Privacy) and Sovereignty.
+
+## Hosts
+
+Hosted by [DNS-OARC](https://www.dns-oarc.net/), [Netnod](https://www.netnod.se/) and [RIPE NCC](https://www.ripe.net/).
+
+## Sponsors
+
+Many thanks to our sponsors [SIDN](https://www.sidn.nl/), [NLnet Labs](https://nlnetlabs.nl/), [ISC](https://www.isc.org/), [Gcore](https://gcore.com/) and [ICANN](https://www.icann.org/)!
+
+## Programme Committee
+
+And we couldn't have done it without the help from our awesome PC: Victoria Risk, Shane Kerr, Moin Rahman, Moritz Müller, Qasim Lone, Yazid Akanho and Benno Overeinder!
+
+## Projects
 
 We had 6 team projects at the DNS Hackathon, with a link to their results.
 
-1. [DNS-OOPS](https://github.com/DNS-Hackathon-2023/DNS-oops). Team members: Doris Hauser, Willem Toorop, Henrik Kramselund, Stefan Ubbink, Vilhelm Prytz, Liman
-2. [DNS TODAY](https://github.com/DNS-Hackathon-2023/DNS-Today) Team members - Jonathan Magnusson, Artyom Minasyan, Kurt Kayser, Sarder Kamal, Lavie B.B., Q Misell, James Rice, Bernhard
-3. [DIG-alicious](https://github.com/DNS-Hackathon-2023/diggin-in). Team members: Tony Finch, Sebastian Castro, Raffaele Sommese, Jonas Andersson, Alex Semenyaka, Annika Hannig, emile aben
-4. [DApper (DNS and the application layer)](https://github.com/DNS-Hackathon-2023/DApper). Team members: Yuang Yuan, Asbjoern Sloth Toennesen, Jelmer Vernooij, Niall,
-5. [SustainabiliTeam pdf](https://github.com/DNS-Hackathon-2023/.github/files/11524710/SustainabilitTeam-presentationfinalfinal2nowreallydone_FINAL.pdf)
-   plus [pad1](https://pad.chalec.org/p/a129ripe-86-hackathon) and [pad2](https://pad.chalec.org/p/a129ripe-86-hackathonpapercopy). Team members: Lain Aleix Samael Högy, alex, Koupam, Joe, Vesna Manojlovic
-6. [DNSSEC bootstrapping](https://github.com/DNS-Hackathon-2023/DNSSEC-Bootstrapping) Team members: Peter Thomassen, Joeri de Ruiter, Vincent Jumpertz, Rudi Kraus, Adam Burns
+- [DNS-oops](https://github.com/DNS-Hackathon-2023/DNS-oops)
+
+  [Results presentation](https://github.com/DNS-Hackathon-2023/DNS-oops/blob/main/presentation/hackathon-dns-oops.pdf)
+
+  Team members: Doris Hauser, Willem Toorop, Henrik Kramselund, Stefan Ubbink, Vilhelm Prytz, Lars-Johan Liman
+
+- [DNS Today](https://github.com/DNS-Hackathon-2023/DNS-Today)
+
+  Team members: Jonathan Magnusson, Artyom Minasyan, Kurt Kayser, Sarder Kamal, Lavie B.B., Q Misell, James Rice, Bernhard Degen
+
+- [DIG-alicious](https://github.com/DNS-Hackathon-2023/diggin-in)
+
+  [Results presentation](https://github.com/DNS-Hackathon-2023/diggin-in/blob/main/diglicious-hackathon-2023.pdf)
+
+  Team members: Tony Finch, Sebastian Castro, Raffaele Sommese, Jonas Andersson, Alex Semenyaka, Annika Hannig, Emile Aben
+
+- [DApper (DNS and the application layer)](https://github.com/DNS-Hackathon-2023/DApper)
+
+  [Results presentation](https://github.com/DNS-Hackathon-2023/DApper/blob/main/DApper.pdf)
+
+  Team members: Yuang Yuan, Asbjoern Sloth Toennesen, Jelmer Vernooij, Niall
+
+- SustainabiliTeam
+
+  [Results presentation](https://github.com/DNS-Hackathon-2023/.github/files/11524710/SustainabilitTeam-presentationfinalfinal2nowreallydone_FINAL.pdf), [pad1](https://pad.chalec.org/p/a129ripe-86-hackathon), [pad2](https://pad.chalec.org/p/a129ripe-86-hackathonpapercopy)
+
+  Team members: Lain Aleix Samael Högy, Alex Pion, Malick Koupam Alassane, Joseph Gersch, Vesna Manojlovic
+
+- [DNSSEC Bootstrapping](https://github.com/DNS-Hackathon-2023/DNSSEC-Bootstrapping)
+
+  [Results presentation](https://github.com/DNS-Hackathon-2023/DNSSEC-Bootstrapping/blob/main/Presentation.pdf)
+
+  Team members: Peter Thomassen, Joeri de Ruiter, Vincent Jumpertz, Rudi Kraus, Adam Burns
+
+## Share the event
+
+Here is a short footnote-able text if you want to mention this hackathon:
+
+> DNS Hackathon 2023 - Connect to port 53!
+>
+> During May 20-21 (weekend before [#RIPE86](https://ripe86.ripe.net/)), 42+ hackers gathered from all corners of the world to work on DNS with the challenges about; Sustainability, Security (& Privacy) and Sovereignty. Thank you all!
+>
+> The hackathon was hosted by [DNS-OARC](https://www.dns-oarc.net/), [Netnod](https://www.netnod.se/) and [RIPE NCC](https://www.ripe.net/) with the grateful support from our sponsors [SIDN](https://www.sidn.nl/), [NLnet Labs](https://nlnetlabs.nl/), [ISC](https://www.isc.org/), [Gcore](https://gcore.com/) and [ICANN](https://www.icann.org/).
+>
+> For more information about #DNSHackathon2023, project results and presentations, see [https://github.com/DNS-Hackathon-2023](https://github.com/DNS-Hackathon-2023).
