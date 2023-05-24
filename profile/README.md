@@ -26,7 +26,7 @@ We had 6 team projects at the DNS Hackathon, with a link to their results.
 
   Team members: Doris Hauser, Willem Toorop, Henrik Kramselund, Stefan Ubbink, Vilhelm Prytz, Lars-Johan Liman
 
-- [DNS Today](https://github.com/DNS-Hackathon-2023/DNS-Today)
+- [DNS Today](https://github.com/DNS-Hackathon-2023/DNS-Today) + [DNS Home Appliance](https://github.com/DNS-Hackathon-2023/DNS-Home-Appliance)
 
   Team members: Jonathan Magnusson, Artyom Minasyan, Kurt Kayser, Sarder Kamal, Lavie B.B., Q Misell, James Rice, Bernhard Degen
 
