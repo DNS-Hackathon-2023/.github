@@ -54,6 +54,18 @@ We had 6 team projects at the DNS Hackathon, with a link to their results.
 
   Team members: Peter Thomassen, Joeri de Ruiter, Vincent Jumpertz, Rudi Kraus, Adam Burns
 
+## 🏆️ Awards 🏆️
+
+We had three categories of awards, in no particular order:
+
+- DNS-oops was awarded "Most useful project for operators" for their work on out of band signalling, in practice, triggering BGP!
+
+  This project will also be presented at DNS-WG RIPE86, links will follow.
+
+- DIG-alicious was awarded "Best teamwork, exemplified hackathon spirit" for their work on RIPE Atlas data compression and pre-scripting!
+
+- DApper was awarded for "Team tackled a difficult/important challenge and progressed a potential solution" for their work on the DNS and the application layer!
+
 ## Share the event
 
 Here is a short footnote-able text if you want to mention this hackathon:
