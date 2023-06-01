@@ -4,6 +4,8 @@
 
 During May 20-21 (weekend before [#RIPE86](https://ripe86.ripe.net/)), 42+ hackers gathered from all corners of the world to work on DNS with the challenges about; Sustainability, Security (& Privacy) and Sovereignty.
 
+The results were also presented during the [DNS Working Group at RIPE86](https://ripe86.ripe.net/programme/meeting-plan/dns-wg/), check [slides](https://ripe86.ripe.net/wp-content/uploads/presentations/124-port53-hackathon-dns-oops-spuaur5ebpbb3g67hs3fms1epy.pdf) and [video recordings](https://ripe86.ripe.net/archives/video/1082).
+
 ## Hosts
 
 Hosted by [DNS-OARC](https://www.dns-oarc.net/), [Netnod](https://www.netnod.se/) and [RIPE NCC](https://www.ripe.net/).
