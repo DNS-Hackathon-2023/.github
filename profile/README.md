@@ -62,7 +62,7 @@ We had three categories of awards, in no particular order:
 
 - DNS-oops was awarded "Most useful project for operators" for their work on out of band signalling, in practice, triggering BGP!
 
-  This project will also be presented at DNS-WG RIPE86, links will follow.
+  This project was also be presented at DNS-WG RIPE86, see links at top.
 
 - DIG-alicious was awarded "Best teamwork, exemplified hackathon spirit" for their work on RIPE Atlas data compression and pre-scripting!
 
