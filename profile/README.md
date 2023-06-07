@@ -42,7 +42,7 @@ We had 6 team projects at the DNS Hackathon, with a link to their results.
 
   [Results presentation](https://github.com/DNS-Hackathon-2023/DApper/blob/main/DApper.pdf)
 
-  Team members: Yuang Yuan, Asbjoern Sloth Toennesen, Jelmer Vernooij, Niall
+  Team members: Yuang Yuan, Asbjoern Sloth Toennesen, Jelmer Vernooij, Niall O'Reilly, André Melancia
 
 - SustainabiliTeam
 
