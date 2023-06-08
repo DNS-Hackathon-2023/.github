@@ -2,7 +2,7 @@
 
 # DNS Hackathon 2023 - Connect to port 53!
 
-During May 20-21 (weekend before [#RIPE86](https://ripe86.ripe.net/)), 42+ hackers gathered from all corners of the world to work on DNS with the challenges about; Sustainability, Security (& Privacy) and Sovereignty.
+During May 20-21 (the weekend before [#RIPE86](https://ripe86.ripe.net/)), 42+ hackers gathered from all corners of the world to work on DNS with the challenges of; Sustainability, Security (& Privacy) and Sovereignty.
 
 The results were also presented during the [DNS Working Group at RIPE86](https://ripe86.ripe.net/programme/meeting-plan/dns-wg/), check [slides](https://ripe86.ripe.net/wp-content/uploads/presentations/124-port53-hackathon-dns-oops-spuaur5ebpbb3g67hs3fms1epy.pdf) and [video recordings](https://ripe86.ripe.net/archives/video/1082).
 
@@ -60,7 +60,7 @@ We had 6 team projects at the DNS Hackathon, with a link to their results.
 
 We had three categories of awards, in no particular order:
 
-- DNS-oops was awarded "Most useful project for operators" for their work on out of band signalling, in practice, triggering BGP!
+- DNS-oops was awarded "Most useful project for operators" for their work on out-of-band signaling, in practice, triggering BGP!
 
   This project was also be presented at DNS-WG RIPE86, see links at top.
 
@@ -74,7 +74,7 @@ Here is a short footnote-able text if you want to mention this hackathon:
 
 > DNS Hackathon 2023 - Connect to port 53!
 >
-> During May 20-21 (weekend before [#RIPE86](https://ripe86.ripe.net/)), 42+ hackers gathered from all corners of the world to work on DNS with the challenges about; Sustainability, Security (& Privacy) and Sovereignty. Thank you all!
+> During May 20-21 (the weekend before [#RIPE86](https://ripe86.ripe.net/)), 42+ hackers gathered from all corners of the world to work on DNS with the challenges of; Sustainability, Security (& Privacy) and Sovereignty. Thank you all!
 >
 > The hackathon was hosted by [DNS-OARC](https://www.dns-oarc.net/), [Netnod](https://www.netnod.se/) and [RIPE NCC](https://www.ripe.net/) with the grateful support from our sponsors [SIDN](https://www.sidn.nl/), [NLnet Labs](https://nlnetlabs.nl/), [ISC](https://www.isc.org/), [Gcore](https://gcore.com/) and [ICANN](https://www.icann.org/).
 >
