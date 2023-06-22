@@ -46,7 +46,7 @@ We had 6 team projects at the DNS Hackathon, with a link to their results.
 
 - SustainabiliTeam
 
-  [Results presentation](https://github.com/DNS-Hackathon-2023/.github/files/11524710/SustainabilitTeam-presentationfinalfinal2nowreallydone_FINAL.pdf), [pad1](https://pad.chalec.org/p/a129ripe-86-hackathon), [pad2](https://pad.chalec.org/p/a129ripe-86-hackathonpapercopy)
+  [Results presentation](https://github.com/DNS-Hackathon-2023/.github/files/11524710/SustainabilitTeam-presentationfinalfinal2nowreallydone_FINAL.pdf), [pad1](https://pad.chalec.org/p/a129ripe-86-hackathon) and [PDF 1](https://github.com/DNS-Hackathon-2023/SustainabiliTeam/blob/main/sust-1.pdf), [pad2](https://pad.chalec.org/p/a129ripe-86-hackathonpapercopy) and [PDF 2](https://github.com/DNS-Hackathon-2023/SustainabiliTeam/blob/main/sust-2.pdf).  
 
   Team members: Lain Aleix Samael Högy, Alex Pion, Malick Koupam Alassane, Joseph Gersch, Vesna Manojlovic
 
